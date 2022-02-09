@@ -1,0 +1,7 @@
+Empezé probando con parsear_pdf_1 que usa una librería en particular
+
+No funcionó tanto, así que probé con parsear_pdf_2 que usa pdfplumber
+
+Funciona muy bien en parsear_pdf.py así que vamos a seguir de acá.
+
+16-10: dejo hasta acá, armé programa para descargar los pdf y armé un parseador que se queda con las "líneas interesantes"
